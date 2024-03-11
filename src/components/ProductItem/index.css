@@ -1,0 +1,27 @@
+.image {
+  width: 250px;
+  height: 250px;
+  border-radius: 10px;
+}
+.list-item {
+  width: 300px;
+  margin: 20px;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  border: 1px solid #4b3737;
+  padding: 20px;
+  border-radius: 5px;
+  box-shadow: 10px 15px #4b3737;
+  margin-top: 50px;
+}
+.title {
+  font-size: 20px;
+  color: #4b3737;
+  text-decoration: none;
+}
+.link {
+  text-decoration: none;
+}
+.para {
+  font-size: 18px;
+  color: #2e4283;
+}
